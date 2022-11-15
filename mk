@@ -1,2 +1,4 @@
 jinna
 chinna
+binna
+ginna
